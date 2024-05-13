@@ -1,4 +1,4 @@
-https://media.licdn.com/dms/image/D4D16AQFX-7NtPWggBg/profile-displaybackgroundimage-shrink_350_1400/0/1709350822306?e=1721260800&v=beta&t=N-i9ZWWpP-L1Rjm1YX1EgyUXWHNo-pCZZSp5o5tUH2A
+https://twitter.com/YakupBirgl12/header_photo
 <h1 align="center">Hi 😉, I'm Yakup Birgül</h1>
 <h3 align="center">Cyber Security Researcher & Web Developer</h3>
 
