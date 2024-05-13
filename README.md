@@ -25,4 +25,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seniorhuman&" alt="seniorhuman" /></p>
 
 
-![snake gif](https://github.com/seniorhuman/YakupBirgül/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/seniorhuman/seniorhuman/blob/output/github-contribution-grid-snake.gif)
