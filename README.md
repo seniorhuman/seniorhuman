@@ -1,2 +1,2 @@
  Hi, I’m @seniorhuman
- Cyber Security reviewer.
+ Cyber Security Researcher and Web Developer.
